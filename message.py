@@ -3,9 +3,9 @@
 Envoie un message iMessage à chaque bénévole trouvé dans un PDF.
 
 Usage :
-    python3 imessage_rose_festival_corrige.py --dry-run
-    python3 imessage_rose_festival_corrige.py --limit 1
-    python3 imessage_rose_festival_corrige.py
+    python3 message.py --dry-run
+    python3 message.py --limit 1
+    python3 message.py
 """
 
 import argparse
